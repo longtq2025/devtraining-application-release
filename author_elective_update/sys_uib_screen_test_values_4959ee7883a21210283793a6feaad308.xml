@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "allowBoth",
+        "columnLimit": 0,
+        "columns": "",
+        "currentPage": 0,
+        "enableCellFiltering": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableLiveList": false,
+        "enableQuickEdit": true,
+        "enableReferenceLinks": true,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listId": null,
+        "listType": "default",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "table": "incident"
+    },
+    "table": "x_58872_needit_needit"
+}</macroponent_config>
+        <screen display_value="List-Clone">8959ee7883a21210283793a6feaad304</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 03:31:03</sys_created_on>
+        <sys_id>4959ee7883a21210283793a6feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_4959ee7883a21210283793a6feaad308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 03:31:03</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1806f61c1b998e9c77c7cb7b234bcb5a</instance_id>
+        <instance_name>dev250802</instance_name>
+        <name>sys_uib_screen_test_values_4959ee7883a21210283793a6feaad308</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "allowBoth",
+        "columnLimit": 0,
+        "columns": "",
+        "currentPage": 0,
+        "enableCellFiltering": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableLiveList": false,
+        "enableQuickEdit": true,
+        "enableReferenceLinks": true,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listId": null,
+        "listType": "default",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "table": "incident"
+    },
+    "table": "x_58872_needit_needit"
+}</macroponent_config><screen display_value="List-Clone">8959ee7883a21210283793a6feaad304</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-16 03:31:03</sys_created_on><sys_id>4959ee7883a21210283793a6feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_uib_screen_test_values_4959ee7883a21210283793a6feaad308</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-16 03:31:03</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>487781116</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a9b1967883221210283793a6feaad3b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 03:31:03</sys_created_on>
+        <sys_id>c959ee7883a21210283793a6feaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cd84f5aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 03:31:03</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>cd59ee7831a212108c1c37a4c4f01309</update_guid>
+        <update_guid_history>cd59ee7831a212108c1c37a4c4f01309:487781116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 03:32:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>05753e598b4b466a922672cae3dd2fd9</sys_id>
+        <sys_metadata>4959ee7883a21210283793a6feaad308</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_4959ee7883a21210283793a6feaad308</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_4959ee7883a21210283793a6feaad308">c959ee7883a21210283793a6feaad30a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 03:32:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
